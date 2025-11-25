@@ -1,7 +1,7 @@
 # Pomni
 Pomni skin for Bandit
 
-Requested by wubs on Discord, Pomni joins RoR2 as a skin for Bandit. 
+Requested by Wubs on Discord, Pomni joins RoR2 as a skin for Bandit. 
 
 ![pomni](https://github.com/user-attachments/assets/b85cea9f-d5f8-4511-8a3c-b0f846eca8a9)
 
