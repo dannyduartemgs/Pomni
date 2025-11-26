@@ -1,11 +1,11 @@
 # Pomni
-Pomni skin for Bandit
+Pomni skin for Commando
 
-Requested by Wubs on Discord, Pomni joins RoR2 as a skin for Bandit. 
+Requested by Wubs on Discord, Pomni joins RoR2 as a skin for Commando. 
 
-![pomni](https://github.com/user-attachments/assets/b85cea9f-d5f8-4511-8a3c-b0f846eca8a9)
+![pomni](https://github.com/user-attachments/assets/763b2636-549d-48ba-908e-6b4fd781982e)
 
-![pomni2](https://github.com/user-attachments/assets/e5e90b68-af34-47e8-bec3-71a82960b446)
+![pomni2](https://github.com/user-attachments/assets/95d17ed6-925b-4c70-9f2c-2240430a6ecc)
 
 Enjoy!
 
